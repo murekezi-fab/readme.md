@@ -113,13 +113,16 @@ We start with LAG () this is the table which shows the LAG () IN our table of tr
 For the next we are going to se the LEAD () navigation 
 
 <img width="492" height="75" alt="image" src="https://github.com/user-attachments/assets/b7a79368-c42f-4962-96c9-ddd558233787" />
+
 Distribution: NTILE (4), CUME_DIST ()
 We have come from the distribution of our tables 
 We are going to start with NTILE (4 here we have the screen shoot of how this function are shown and used 
 <img width="872" height="198" alt="image" src="https://github.com/user-attachments/assets/3316de06-9c82-499f-ac75-c4f482060e99" />
 After using NTILE (4 we are going to use the other navigation which called 
 CUME_DIST () as we use this function here we have the screen shoot of our table which shows it in good way 
+
 <img width="880" height="194" alt="image" src="https://github.com/user-attachments/assets/7276a368-d6b3-4386-8db3-1e76dd535761" />
+
  #Step 6 — Results Analysis 
 
 For each major finding, present:
